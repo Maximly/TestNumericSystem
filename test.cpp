@@ -6,7 +6,10 @@ File Name:
 
 Abstract:
 
-    Uniteller test ID class
+    Test numeric system for fun. 
+        Numbers are in form XY-XY-...-XY-XY 
+            where X is a set of letters (A-Z excluding some letters), 
+            Y is a set of digits (0-9 excluding some digits)
 
 Author:
 
